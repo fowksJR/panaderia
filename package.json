@@ -10,8 +10,9 @@
   },
   "dependencies": {
     "express": "^4.17.1",
-    "firebase-tools": "^9.16.5"
+    "firebase-tools": "^13.13.3"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "keywords": []
 }
