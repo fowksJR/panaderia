@@ -1,16 +1,17 @@
 {
   "name": "web-pan-main",
   "version": "1.0.0",
-  "description": "![428e0747-f4f7-48b3-a0e2-f598844ef669](https://github.com/lexand-dev/web-pan/assets/105961651/ef9762fe-2b6c-4849-b0e6-8784aca7bf35)",
+  "description": "Proyecto de panadería",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js",
+    "build": "echo 'No build script specified'",
+    "test": "echo 'Error: no test specified' && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
   "dependencies": {
-    "express": "^4.19.2",
-    "firebase-tools": "^13.13.3"
-  }
+    "express": "^4.17.1",
+    "firebase-tools": "^9.16.5"
+  },
+  "author": "",
+  "license": "ISC"
 }
